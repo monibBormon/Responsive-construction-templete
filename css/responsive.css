@@ -1,0 +1,308 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.slider-content h2 {
+    font-size: 40px;
+}
+.slider-active .slider-bg img {
+    width: 100%;
+}
+.service-title h2 {
+	font-size: 40px;
+}
+.single-promotion h3 {
+	font-size: 25px;
+}
+.portfolio-nav li {
+	margin-left: 10px;
+	font-size: 13px;
+}
+.footer-widget h4 {
+	font-size: 25px;
+}
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.logo img{width: 100%;}
+.main-menu ul li a {
+	font-size: 12px;
+	padding: 26px 6px;
+}
+.main-menu li ul.submenu {
+	width: 160px;
+}
+.single-slider.slider-height {
+	min-height: 600px;
+}
+.slider-active .slider-bg img {
+    width: 100%;
+}
+.slider-content h2 {
+    font-size: 30px;
+}
+.slider-content span {
+	letter-spacing: 4px;
+}
+.slider-content p {
+	margin-bottom: 20px;
+	padding-right: 0;
+}
+.btn {
+	padding: 10px 30px;
+}
+.service-title h2 {
+	font-size: 30px;
+}
+.single-service h4 {
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.single-service p {
+	padding: 0;
+}
+.promotion-area {
+	padding: 50px 0;
+}
+.single-promotion {
+	padding-left: 30px;
+}
+.single-promotion h3 {
+	font-size: 20px;
+	margin-bottom: 13px;
+}
+.single-promotion span {
+	margin-bottom: 10px;
+}
+.portfolio-nav li {
+	margin-left: 5px;
+	font-size: 13px;
+}
+.portfolio-text h4 {
+	font-size: 18px;
+	margin-top: 5px;
+}
+.single-testimonial {
+	padding: 20px 5px;
+}
+.footer-address li {
+	font-size: 14px;
+}
+.footer-widget h4 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.footer-link li {
+	font-size: 14px;
+	line-height: 30px;
+}
+.footer-widget form input{width: 70%;}
+.footer-widget form button {
+	font-size: 10px;
+	width: 30%;
+}
+.main-wrapper {
+	padding: 0 20px;
+}
+.promotion-img {
+	min-height: 300px;
+}
+.single-promotion.promotion-2 {
+	margin-bottom: 0;
+}
+button.coupon-btn {
+	margin-left: 0;
+}
+.coupon-apply input {
+	margin-right: 10px;
+}
+.single-blog {
+	margin-top: 30px;
+}
+.gray-header .logo img {
+	width: 60%;
+}
+.pro-details {
+	font-size: 25px;
+}
+.work-details li h5 {
+	font-size: 15px;
+}
+.work-details li span {
+	font-size: 14px;
+}
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.header-top-area {
+    border-bottom: 0;
+}
+.header-bottom-area {
+	padding: 0 10px;
+}
+.main-wrapper {
+	padding: 0 20px;
+}
+.single-slider.slider-height {
+	min-height: 400px;
+}
+.slider-content h2 {
+	font-size: 25px;
+	line-height: 1.4;
+	margin-bottom: 10px;
+}
+.slider-content span {
+	letter-spacing: 4px;
+}
+.slider-content p {
+	margin-bottom: 20px;
+	padding-right: 0;
+}
+.btn {
+	padding: 10px 30px;
+}
+.service-title h2 {
+	font-size: 20px;
+	font-weight: 600;
+}
+.service-title {
+	margin-bottom: 25px;
+}
+.single-service h4 {
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+.single-promotion {
+	padding: 0;
+}
+.promotion-area {
+	padding: 50px 0;
+}
+.single-promotion {
+	padding-left: 30px;
+}
+.single-promotion h3 {
+	font-size: 20px;
+	margin-bottom: 13px;
+}
+.single-promotion span {
+	margin-bottom: 10px;
+}
+.portfolio-nav li {
+	margin-left: 5px;
+	padding: 2px 5px;
+	font-size: 13px;
+}
+.single-cap img {
+	width: 100%;
+}
+.promotion-img {
+	min-height: 300px;
+}
+.breadcrumb-box h2 {
+	font-size: 40px;
+}
+.padding-pg p {
+	padding-left: 14px;
+	border-left: 2px solid #ddd;
+	margin-left: 10px;
+	margin-top: 25px;
+}
+.blog-d-image {
+	margin-bottom: 30px;
+}
+.blog-social {
+	margin-top: 20px;
+}
+.comment-text {
+	margin-left: 120px;
+}
+.comment-header {
+	margin-bottom: 0px;
+}
+.comment-reply {
+	padding-left: 0;
+}
+.blog-sidebar {
+	margin-top: 30px;
+}
+.career-box h3 {
+	font-size: 20px;
+	font-weight: 600;
+	margin: 15px 0;
+}
+.career-job-title {
+	padding: 10px;
+	margin-bottom: 30px;
+}
+button.coupon-btn {
+	padding: 5px 15px;
+	margin-left: 0px;
+}
+.coupon-apply input {
+	margin-right: 10px;
+}
+.contact-way {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.absolute-header .header-top-area {
+	border-bottom:0;
+}
+.single-counter .count-text {
+	padding-left: 0;
+} 
+.header-bottom-area.index3 .mean-container a.meanmenu-reveal {
+	margin-top: 0px;
+}
+.header-bottom-area.index3 .mean-container .mean-nav {
+	margin-top: 50px;
+}
+.product-zoom-img ul.nav li {
+	margin-right: 10px;
+}
+.product-zoom-img ul.nav {
+	float: none;
+	width: 300px;
+}
+.product-zoom-img .tab-content {
+	margin-left: 0;
+	margin-bottom: 30px;
+}
+.shop-menu-list {
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.pro-details {
+	font-size: 15px;
+}
+.work-description p {
+	font-size: 14px;
+}
+.work-details-img {
+	margin-bottom: 30px;
+}
+
+
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
